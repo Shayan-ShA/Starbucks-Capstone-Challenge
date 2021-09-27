@@ -18,3 +18,6 @@ explain my solution to this capstone challenge in more detail.
   <li>Clone the repository on your local computer</li>
   <li>You just need Juputer notebook to interact with the project</li>
 </ol>
+
+
+![Certificate.PNG](https://github.com/Shayan-ShA/Starbucks-Capstone-Challenge/blob/main/Certificate.PNG)
